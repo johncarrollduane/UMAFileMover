@@ -1,0 +1,33 @@
+PREPARER: CHEVACH 7153 Chase Chevalier
+PREPARER: WALSHEK 7154 Erin Walsh
+PREPARER: BEDRODH 7144 Daniel Bedrossian
+PREPARER: BEALSTT 7151 Thomas Beals
+PREPARER: CALLAGS 7156 Garrett Callahan
+PREPARER: DUANEJC 7150 John Duane
+EMAIL: jduane@mdtadvisers.com
+EMAIL: tfew@federatedinv.com
+EMAIL: tbeals@mdtadvisers.com
+FILE: ms_ppa_msfsv
+FILE: ms_ppa_mscacv
+FILE: ms_ppa_msmacc
+FILE: ms_ppa_msmsg
+FILE: ms_ppa_msmlcg
+FILE: ms_ppa_msmmcg
+FILE: ms_ppa_msmsc
+FILE: ms_ppa_msmsv
+FILE: sb_uma_sbmacc
+FILE: sb_uma_sbmmcg
+FILE: sb_uma_sbmsc
+FILE: sb_uma_sbmsv
+FILE: sb_uma_sbmsg
+FILE: sb_uma_sbcacv
+FILE: sb_uma_sbfsv
+FILE: sb_uma_sbmlcg
+FILE: sb_uma_pemlcg
+FILE: sb_uma_pemmcg
+FILE: sb_uma_pemacc
+FILE: sb_uma_pecacv
+FOLDER: MOM \\srvmomentp1\Faprd_out\mdt\interact\
+FOLDER: SRC F:\Home\Acctg\Federated\Daily UMA Holdings\
+FOLDER: ARC F:\Home\Acctg\Federated\Daily UMA Holdings\Archive\
+FOLDER: TST J:\VB\UMA File Mover\
